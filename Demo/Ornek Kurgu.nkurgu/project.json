@@ -1,0 +1,65 @@
+{
+  "assets" : [
+    {
+      "duration" : {
+        "timescale" : 1,
+        "value" : 2
+      },
+      "fileURL" : "file:\/\/\/Users\/sarphanuzunoglu\/Documents\/Codex\/2026-09-23\/sen-apple-ekosistemine-macos-tam-hakim\/outputs\/NKurgu\/Demo\/renk-testi.mov",
+      "id" : "EC403846-0A18-4576-8B32-4F509EAD04DA",
+      "kind" : "video",
+      "name" : "renk-testi.mov",
+      "securityScopedBookmark" : "Ym9va+gDAAAAAAUQQAAAAOXc1fzUwL2z8nfKN+CrgbnAdzgIekQqeG3EXUKFCf2xAAAAAAAAAAAAAAAAAAAAANQCAAAEAAAAAwMAAAAIACgFAAAAAQEAAFVzZXJzAAAADwAAAAEBAABzYXJwaGFudXp1bm9nbHUACQAAAAEBAABEb2N1bWVudHMAAAAFAAAAAQEAAENvZGV4AAAACgAAAAEBAAAyMDI2LTA5LTIzAAAmAAAAAQEAAHNlbi1hcHBsZS1la29zaXN0ZW1pbmUtbWFjb3MtdGFtLWhha2ltAAAHAAAAAQEAAG91dHB1dHMABgAAAAEBAABOS3VyZ3UAAAQAAAABAQAARGVtbw4AAAABAQAAcmVuay10ZXN0aS5tb3YAACgAAAABBgAAEAAAACAAAAA4AAAATAAAAFwAAABwAAAAoAAAALAAAADAAAAAzAAAAAgAAAAEAwAAoUcAAAAAAAAIAAAABAMAAHJbBAAAAAAACAAAAAQDAACjWwQAAAAAAAgAAAAEAwAA0KdxAAAAAAAIAAAABAMAAEawJQEAAAAACAAAAAQDAABHsCUBAAAAAAgAAAAEAwAASLAlAQAAAAAIAAAABAMAAAC3JQEAAAAACAAAAAQDAABOCSYBAAAAAAgAAAAEAwAA5QkmAQAAAAAoAAAAAQYAABQBAAAkAQAANAEAAEQBAABUAQAAZAEAAHQBAACEAQAAlAEAAKQBAAAIAAAAAAQAAEHIMhD89b8gGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAgAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAkGKT5wAAAAgAAAAABAAAQcgkwlEAAAAkAAAAAQEAAEQ4Mjg1MTRELTQwNkQtNEJEQS05RUYwLTRDMUNBQjFDNEMzNhgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA\/v\/\/\/wEAAAAAAAAAEAAAAAQQAADkAAAAAAAAAAUQAAC0AQAAAAAAABAQAAD0AQAAAAAAAEAQAADkAQAAAAAAAAIgAADAAgAAAAAAAAUgAAAwAgAAAAAAABAgAABAAgAAAAAAABEgAAB0AgAAAAAAABIgAABUAgAAAAAAABMgAABkAgAAAAAAACAgAACgAgAAAAAAADAgAADMAgAAAAAAAAHAAAAUAgAAAAAAABHAAAAgAAAAAAAAABLAAAAkAgAAAAAAABDQAAAEAAAAAAAAAA=="
+    }
+  ],
+  "id" : "95302ED7-DB4E-464B-969E-9DA31B59BC06",
+  "name" : "İsimsiz proje",
+  "schemaVersion" : 1,
+  "sequences" : [
+    {
+      "frameDuration" : {
+        "timescale" : 30,
+        "value" : 1
+      },
+      "height" : 1080,
+      "id" : "72BA2FA2-BA16-4395-97F2-1D3868A484F3",
+      "name" : "Ana kurgu",
+      "tracks" : [
+        {
+          "clips" : [
+            {
+              "assetID" : "EC403846-0A18-4576-8B32-4F509EAD04DA",
+              "duration" : {
+                "timescale" : 2,
+                "value" : 3
+              },
+              "id" : "CE55A65C-373A-4F78-A226-74544E80DB8B",
+              "sourceStart" : {
+                "timescale" : 1,
+                "value" : 0
+              },
+              "start" : {
+                "timescale" : 1,
+                "value" : 0
+              }
+            }
+          ],
+          "id" : "41A97E44-D7EC-43FB-96EC-7B68E0930D99",
+          "isLocked" : false,
+          "kind" : "video",
+          "name" : "Video 1"
+        },
+        {
+          "clips" : [
+
+          ],
+          "id" : "1303E05A-6055-4F3A-97B3-6EEF95DBCEBD",
+          "isLocked" : false,
+          "kind" : "audio",
+          "name" : "Ses 1"
+        }
+      ],
+      "width" : 1920
+    }
+  ]
+}
